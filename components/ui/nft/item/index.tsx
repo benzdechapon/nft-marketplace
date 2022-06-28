@@ -1,5 +1,5 @@
 import { FunctionComponent } from "react";
-import { NftMeta } from "../../../types/nft";
+import { NftMeta } from "../../../../types/nft";
 
 type NftItemProps = {
   item: NftMeta;
@@ -36,7 +36,7 @@ const NftItem: FunctionComponent<NftItemProps> = ({ item }) => {
                   100
                   <img
                     className="h-6"
-                    src="https://w7.pngwing.com/pngs/471/910/png-transparent-ethereum-classic-computer-icons-cryptocurrency-symbol-symbol-miscellaneous-blue-angle.png"
+                    src="https://icons-for-free.com/download-icon-eth+ethcoin+etherium+icon-1320162857971241492_512.png"
                     alt="ether icon"
                   />
                 </div>

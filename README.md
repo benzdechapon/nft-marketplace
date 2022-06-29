@@ -1,6 +1,7 @@
 # Description
 
 - This repo is for practice, POC about NFT marketplace
+- Demo https://benz-nft-market-demo.netlify.app/
 
 # Next.js + Tailwind CSS Example
 
